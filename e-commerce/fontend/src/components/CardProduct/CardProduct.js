@@ -11,3 +11,4 @@ class CardProduct extends React.Component {
 }
 
 export default CardProduct;
+//Beto es el mas chambeador
